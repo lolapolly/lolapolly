@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a developer based in London, passionate about 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/59374587/118122178-d9493700-b3eb-11eb-8b4a-bd032b2d7b52.gif" alt="Fun Developer Animation" width="400"/>
+<img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" alt="Developer Animation" width="400"/>
 
 ---
 
