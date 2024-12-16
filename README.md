@@ -13,15 +13,8 @@ Welcome to my GitHub profile! I'm a developer based in London, passionate about 
 
 ## 🛠️ Languages and Tools I Use
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lolapolly&layout=compact&theme=radical)
 
----
-
-## 📈 GitHub Stats
-
-![Lola's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
 
 ## 🌟 Contribution Highlights
 - 🔥 **Commits:** Consistently contributing to various projects every month
