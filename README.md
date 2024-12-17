@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a developer based in London, passionate about 
 ---
 
 ## 🚀 About Me
-- 🌍 Living in an Edwardian house in London 🇬🇧
+- 🍕 Pizza enthusiast 
 - 💡 Interested in creative problem-solving and elegant code solutions
 - 🖌️ Enthusiast for modern designs and clean architecture
 
